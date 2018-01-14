@@ -1,2 +1,2 @@
 # Arduino
-Emitting Lights on a Circuit Playground using an FSB 
+Learning how to use Arduino 
