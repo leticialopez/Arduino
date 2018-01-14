@@ -1,4 +1,5 @@
 // Code
+//Emitting Lights on a Circuit Playground using an FSB
 #include <Adafruit_CircuitPlayground.h>
 #include <Wire.h>
 #include <SPI.h>
